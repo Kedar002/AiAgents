@@ -1,2 +1,8 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Kedar Khopade. I’m a software engineer and mobile app developer from Pune, India, with a deep love for building things that people actually use. I started off with a degree in Computer Engineering and somehow found myself falling in love with Flutter—not the bird thing, the framework.
+
+I've been developing apps professionally for over 3 years now, across domains like healthcare, e-commerce, and chatbots. I even co-founded a startup called MuscleRoute that sold protein supplements—yes, I do hit the gym occasionally (or at least I try).
+
+I'm currently working across two teams, building property management solutions and scaling apps like a caffeinated compiler. I enjoy learning new tech stacks, and I’m now diving deep into backend development (thanks, Scaler). AI and ML fascinate me, and I love playing around with APIs—from Google Maps to OpenAI.
+
+Outside work? I’m a fan of late-night code sprints, good design, and anything that makes life smoother—be it a well-structured SQL schema or a fresh cup of chai.
+
